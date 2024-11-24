@@ -11,5 +11,11 @@ Please be sure to have installed the following python packages:
 - tqdm
 
 ## Code Description
-- 
+- **ER_withFLPAandLPA**:
+- **BA_withFLPAandLPA**:
+- **ForestFire_withLPAandFLPA**:
+- **SBM_mix_param**:
+- **SBM_NMI**:
+- **NMI_smallEmpNet**:
+- **FLPA_LPA_EmpNet**:
 
