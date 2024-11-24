@@ -11,11 +11,11 @@ Please be sure to have installed the following python packages:
 - tqdm
 
 ## Code Description
-- **ER_withFLPAandLPA**:
-- **BA_withFLPAandLPA**:
-- **ForestFire_withLPAandFLPA**:
-- **SBM_mix_param**:
-- **SBM_NMI**:
-- **NMI_smallEmpNet**:
-- **FLPA_LPA_EmpNet**:
+- **1.ER_withFLPAandLPA**: Evaluating computational time for the FLPA, Asyn. LPA, Syn. LPA acting on ER synthetic networks.
+- **2.BA_withFLPAandLPA**: Evaluating computational time for the FLPA, Asyn. LPA, Syn. LPA acting on BA synthetic networks.
+- **3.ForestFire_withLPAandFLPA**: Evaluating computational time for the FLPA, Asyn. LPA, Syn. LPA acting on Forest Fire synthetic networks.
+- **4.SBM_mix_param**: Evaluating computational time for the FLPA, Asyn. LPA, Syn. LPA acting on SBM synthetic networks.
+- **5.SBM_NMI**: Evaluating the NMI for the FLPA, Asyn. LPA, Syn. LPA acting on SBM synthetic networks.
+- **6.NMI_smallEmpNet**: Evaluating the NMI for the FLPA, Asyn. LPA, Syn. LPA acting on three small empirical networks with a known sociological division of nodes into communities.
+- **7.FLPA_LPA_EmpNet**: Evaluating computational time and Modularity for the FLPA, Asyn. LPA, Syn. LPA acting on six large empirical network.
 
