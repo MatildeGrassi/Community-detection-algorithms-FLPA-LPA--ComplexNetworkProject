@@ -3,12 +3,12 @@ This project compares the synchronous Label Propagation Algorithm (LPA), asynchr
 
 ## Requirements
 Please be sure to have installed the following python packages:
-- networkx
-- timeit
-- numpy
-- random
-- matplotlib.pyplot
-- tqdm
+- Networkx
+- Timeit
+- Numpy
+- Random
+- Matplotlib.pyplot
+- Tqdm
 
 ## Code Description
 - **1.ER_withFLPAandLPA**: Evaluating computational time for the FLPA, Asyn. LPA, Syn. LPA acting on ER synthetic networks.
